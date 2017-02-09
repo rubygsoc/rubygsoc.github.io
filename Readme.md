@@ -35,3 +35,27 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `sudo npm install`
 - Run `sudo npm install -g gulp gulp-cli`
 - Run `sudo gulp`
+
+If you see following error:
+> Error: watch /path_to_folder/rubygsoc.github.io/src/styl/ ENOSPC
+
+you need to increase system limit on the number of files you can monitor ([Read more](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)):
+
+```
+sudo sysctl fs.inotify.max_user_watches=524288
+```
+
+## Adding a new main-class
+
+`main-class` is used to categorize projects. If you need a new main-class
+
+* add it in `themes` in `src/styl/_theme-colors.styl`:
+```
+themes = {
+    post-bundler: #0e8ab3,
+    post-jruby: #2DA0C3,
+    ...
+    post-newclass: #hexcolor
+}
+```
+* create a category template for your new main-class: `category/newclass.html`
