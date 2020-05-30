@@ -2,7 +2,7 @@
 title: RubyGSoC
 description: The Ruby Google Summer of Code project!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rubygsoc.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://rubygsoc.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: rubygsoc
