@@ -27,4 +27,4 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 * **Programming areas include**: Data structure
 * **Estimated difficulty level**: Easy/Medium
 * **Student**: Tadashi Saito
-* **Mentors**: @soutaro
+* **Mentors**: @mame, @soutaro
