@@ -17,4 +17,4 @@ This project would include extending Gemstash to support storing gems in other p
 * **Programming areas include**: Ruby, AWS S3
 * **Estimated difficulty level**: easy to medium
 * **Student**: Hac Duy Quang Nguyen
-* **Mentors**: @hiren
+* **Mentors**: @bronzdoc
