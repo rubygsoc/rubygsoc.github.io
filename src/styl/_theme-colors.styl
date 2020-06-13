@@ -3,8 +3,8 @@ themes = {
     post-jruby: #2DA0C3,
     post-ruby: #D6BA32,
     post-openssl: #EB7728,
-    post-sidekiq: #7D669E,
-    post-krypt: #637a91,
+    post-async: #7D669E,
+    post-celluloid: #637a91,
     post-rubygems: #B31917
 }
 
@@ -45,15 +45,15 @@ for theme, category-color in themes
         .share a
             &:hover svg
                 fill category-color
-                
+
         body
-            &.search-overlay 
+            &.search-overlay
                 &:after
                     +below(cut)
                         background-color category-color
         .icon-menu
             fill category-color
-            
+
         .box-body
             h2
                 color category-color
