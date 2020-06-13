@@ -32,3 +32,19 @@ This is really experimental idea. The goal is subject to change as we work for t
 * **Estimated difficulty level**: Medium/Hard
 * **Student**: Afront
 * **Mentors**: @soutaro
+
+## Status Updates
+
+### Week 3 (06/19/2020)
+
+1. What did you accomplish this past week?
+    - (add your accomplishments)
+
+1. What will you do this upcoming week?
+    - (add your tasks for next week)
+
+1. What obstacles are impeding your progress?
+    - (list any obstacles)
+
+1. Would you like help from some mentor for this task?
+    - (list any help you need)

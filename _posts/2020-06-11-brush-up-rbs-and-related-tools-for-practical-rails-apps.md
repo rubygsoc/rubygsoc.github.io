@@ -28,3 +28,19 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 * **Estimated difficulty level**: Easy/Medium
 * **Student**: Tadashi Saito
 * **Mentors**: @mame, @soutaro
+
+## Status Updates
+
+### Week 3 (06/19/2020)
+
+1. What did you accomplish this past week?
+    - (add your accomplishments)
+
+1. What will you do this upcoming week?
+    - (add your tasks for next week)
+
+1. What obstacles are impeding your progress?
+    - (list any obstacles)
+
+1. Would you like help from some mentor for this task?
+    - (list any help you need)
