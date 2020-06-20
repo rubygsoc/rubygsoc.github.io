@@ -34,13 +34,17 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
-    - (add your accomplishments)
+    - Fixed an issue of RBS about anonymous modules / classes: [ruby/rbs#302](https://github.com/ruby/rbs/pull/302)
+    - Typing [Ruby CI](https://github.com/ruby/rubyci), a small but practical Rails app, is [mostly completed](https://github.com/ruby/rubyci/compare/master...tadd:typed)
+        - Some bugs found with RBS!
+    - With typing of Ruby CI, many bugs and features found to be improved in RBS / Steep
 
 1. What will you do this upcoming week?
-    - (add your tasks for next week)
+   - Just report or fix some of the found bugs
+   - Type some parts of larger Rails apps than Ruby CI (e.g [Discourse](https://github.com/discourse/discourse) or [Mastodon](https://github.com/tootsuite/mastodon) or some other)
 
 1. What obstacles are impeding your progress?
-    - (list any obstacles)
+    - Nothing!
 
 1. Would you like help from some mentor for this task?
-    - (list any help you need)
+    - No for now
