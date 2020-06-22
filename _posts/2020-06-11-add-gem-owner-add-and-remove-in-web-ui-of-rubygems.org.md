@@ -28,13 +28,15 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
-    - (add your accomplishments)
+    - Fixed failing test due to new changes in ownership flow
+    - Resolve the comments by mentor on the PR [rubygems/rubygems.org#2357](https://github.com/rubygems/rubygems.org/pull/2357)
 
 1. What will you do this upcoming week?
-    - (add your tasks for next week)
+    - Fix the issues pointed on the PR
+    - Add tests for the new code
 
 1. What obstacles are impeding your progress?
-    - (list any obstacles)
+    - None
 
 1. Would you like help from some mentor for this task?
-    - (list any help you need)
+    - No
