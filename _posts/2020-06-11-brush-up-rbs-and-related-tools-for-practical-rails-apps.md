@@ -31,6 +31,24 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 ## Status Updates
 
+### Week 4 (06/26/2020)
+
+1. What did you accomplish this past week?
+    - Made a [bugfix PR for Ruby CI](https://github.com/ruby/rubyci/pull/196) (This is found by static analysis)
+    - Continued typing Ruby CI
+    - [Began typing](https://github.com/tootsuite/mastodon/compare/master...tadd:typed) (huge) [User model](https://github.com/tootsuite/mastodon/blob/master/app/models/user.rb) of [Mastodon](https://github.com/tootsuite/mastodon) as an example of larger practical Rails app
+
+1. What will you do this upcoming week?
+   - Improve and (hopefully) complete typing of Mastodon's User model
+   - Create a PR for some lacked signatures in RBS Rails
+   - Catch up for a [new syntax of RBS](https://hackmd.io/BuYUsK9IRLqRehlu6_62gg) and [its PR](https://github.com/ruby/rbs/pull/307)
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
