@@ -24,13 +24,13 @@ This project would include extending Gemstash to support storing gems in other p
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
-    - (add your accomplishments)
+    - I published a PR that composed of the full S3 functionality. The implementation I made proved to be successful in pushing, and yanking various gems.
 
 1. What will you do this upcoming week?
-    - (add your tasks for next week)
+    - Continue fixing bugs, and improving code style, as well as formulizing a wrapper class for abstractualization between storage backends.
 
 1. What obstacles are impeding your progress?
-    - (list any obstacles)
+    - None so far.
 
 1. Would you like help from some mentor for this task?
-    - (list any help you need)
+    - My mentor and I are working well in our discussions. One problem I face is having difficulty managing the spec environment for my tests, which uses default configurations that raise some errors. If anyone have any experience with that, it'd be great if I can hear some advice.
