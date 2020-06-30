@@ -25,6 +25,23 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## Status Updates
 
+### Week 4 (06/26/2020)
+
+1. What did you accomplish this past week?
+    - Added unit, functional and UI tests for new features
+    - Resolve the comments by mentor on the PR [rubygems/rubygems.org#2357](https://github.com/rubygems/rubygems.org/pull/2357)
+    - Refactor existing mailers to make them DRY [rubygems/rubygems.org#2421](https://github.com/rubygems/rubygems.org/pull/2421)
+
+1. What will you do this upcoming week?
+    - Fix the issues pointed on the PR
+    - Work on improving code quality and minimise the changes in existing code.
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
