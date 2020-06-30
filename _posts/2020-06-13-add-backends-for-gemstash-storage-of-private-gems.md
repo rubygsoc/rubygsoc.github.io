@@ -34,3 +34,17 @@ This project would include extending Gemstash to support storing gems in other p
 
 1. Would you like help from some mentor for this task?
     - My mentor and I are working well in our discussions. One problem I face is having difficulty managing the spec environment for my tests, which uses default configurations that raise some errors. If anyone have any experience with that, it'd be great if I can hear some advice.
+    
+### Week 4 (06/28/2020)
+
+1. What did you accomplish this past week?
+    - I wrote a simple storage abstractualization, and was waiting for review by my mentor. 
+
+1. What will you do this upcoming week?
+    - I'll continue to improve the wrapper class, as well as investigate the bug mentioned in Week 3's update.
+
+1. What obstacles are impeding your progress?
+    - None so far.
+
+1. Would you like help from some mentor for this task?
+    - Nope. He resolved most of my confusion recently.
