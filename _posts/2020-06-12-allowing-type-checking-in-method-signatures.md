@@ -38,13 +38,41 @@ This is really experimental idea. The goal is subject to change as we work for t
 ### Week 3 (06/19/2020)
 
 1. What did you accomplish this past week?
-    - (add your accomplishments)
+	- This week, I tried integrating RBS to a type checker prototype I implemented.
 
-1. What will you do this upcoming week?
-    - (add your tasks for next week)
+2. What will you do this upcoming week?
+    - My goal for next week is to write an RBS signature file for my old projects.
 
-1. What obstacles are impeding your progress?
-    - (list any obstacles)
+3. What obstacles are impeding your progress?
+    - I had to work on my final projects and exams, but the exams are finally over.
 
-1. Would you like help from some mentor for this task?
-    - (list any help you need)
+4. Would you like help from some mentor for this task?
+    - None for now
+
+### Week 4 (06/24/2020)
+
+1. What did you accomplish this past week?
+    - I wrote the signature file for my old project, and I found out that running my Ruby code with RBS made it 20x slower.
+
+2. What will you do this upcoming week?
+    - My goal for next week is to use a profiler to see why the type checker is slow.
+
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now
+
+### Week 5 (07/01/2020)
+
+1. What did you accomplish this past week?
+    - I used Stackprof to profile the RBS type checker, and I found out that it spent most of the time in the `Array` branch of a case statement in a method called `#value` .
+
+2. What will you do this upcoming week?
+    - My goal for the upcoming week is to optimize the type checker. I'm currently implementing a sampling option where only a selected amount of elements will be type-checked. I'm done with implementing it for `Array`, and I'm currently working on implementing the sampling functionality for all collections.
+
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now, but it would be interesting to know other approaches of optimizing the type checker.
