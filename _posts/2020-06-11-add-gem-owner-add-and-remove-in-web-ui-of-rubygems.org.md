@@ -25,6 +25,20 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## Status Updates
 
+### Week 5 (07/03/2020)
+
+1. What did you accomplish this past week?
+    - Resolve the comments by mentor on the PR [rubygems/rubygems.org#2357](https://github.com/rubygems/rubygems.org/pull/2357)
+
+1. What will you do this upcoming week?
+    - Get PR [rubygems/rubygems.org#2357](https://github.com/rubygems/rubygems.org/pull/2357) ready for merge.
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+    
 ### Week 4 (06/26/2020)
 
 1. What did you accomplish this past week?
