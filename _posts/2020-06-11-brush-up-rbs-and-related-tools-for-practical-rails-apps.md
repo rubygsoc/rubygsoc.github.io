@@ -31,6 +31,26 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 ## Status Updates
 
+### Week 5 (07/03/2020)
+
+1. What did you accomplish this past week?
+    - Created some issues and PRs: [steep#158](https://github.com/soutaro/steep/issues/158), [rbs_rails#28](https://github.com/pocke/rbs_rails/pull/28), [rbs_rails#29](https://github.com/pocke/rbs_rails/pull/29), [rbs_rails#30](https://github.com/pocke/rbs_rails/pull/30)
+    - Almost completed to [type User model of Mastodon](https://github.com/tootsuite/mastodon/compare/master...tadd:typed#diff-3cd343654abee8aa661035eb36d68fd5)
+    - Looked over the new RBS syntax
+
+1. What will you do this upcoming week?
+    - Continue to type (write signatures) of Mastodon's User model
+    - Improve some behavior of `steep watch`
+    - Auto-generate additional signatures with RBS Rails for some Rails model convention
+        - `foo?` method for a boolean column `foo`
+        - `foo_changed?` method for a column `foo`
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No for now, but I'll continue to communicate
+
 ### Week 4 (06/26/2020)
 
 1. What did you accomplish this past week?
