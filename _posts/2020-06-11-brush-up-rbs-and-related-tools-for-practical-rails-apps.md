@@ -31,6 +31,26 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 ## Status Updates
 
+### Week 6 (07/10/2020)
+
+1. What did you accomplish this past week?
+    - Improved RBS Rails to auto-generate more signatures about DB columns [pocke/rbs_rails#32](https://github.com/pocke/rbs_rails/pull/32)
+        - `boolean_attr?` (end with `?`), `anyattr_changed?` (`_changed?` suffix), etc
+    - Finished to [annotate User model of Mastodon](https://github.com/tootsuite/mastodon/compare/master...tadd:typed#diff-3cd343654abee8aa661035eb36d68fd5)
+        - Used the improved RBS Rails with pocke/rbs_rails#32
+        - 2 errors remain. One seems to be a problem of Steep, another seems a dead-code of implementation
+    - Tried to fix the above issue of Steep (not completed)
+
+1. What will you do this upcoming week?
+    - Investigate the issue of Steep
+    - Investigate and improve `steep watch`
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
 ### Week 5 (07/03/2020)
 
 1. What did you accomplish this past week?
