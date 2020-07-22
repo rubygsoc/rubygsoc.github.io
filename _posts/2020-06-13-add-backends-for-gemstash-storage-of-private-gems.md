@@ -78,5 +78,3 @@ This project would include extending Gemstash to support storing gems in other p
 
 1. Would you like help from some mentor for this task?
     - Nope.
-
-
