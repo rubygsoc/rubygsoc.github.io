@@ -48,3 +48,35 @@ This project would include extending Gemstash to support storing gems in other p
 
 1. Would you like help from some mentor for this task?
     - Nope. He resolved most of my confusion recently.
+
+### Week 5 (07/06/2020)
+
+
+1. What did you accomplish this past week?
+    - Fixed some errors on the storage unit. Improved testing infrastructures, and configure VCR to hide security credentials.
+
+1. What will you do this upcoming week?
+    - I'll proceed on working on a GCP implementation while waiting for further review on my PR.
+
+1. What obstacles are impeding your progress?
+    - None so far.
+
+1. Would you like help from some mentor for this task?
+    - Nope.
+
+### Week 6 (07/13/2020)
+
+
+1. What did you accomplish this past week?
+    - Get started on making a Google Cloud Platform client. 
+
+1. What will you do this upcoming week?
+    - I'll keep working on that while waiting for my code to be reviewed.
+
+1. What obstacles are impeding your progress?
+    - None so far.
+
+1. Would you like help from some mentor for this task?
+    - Nope.
+
+
