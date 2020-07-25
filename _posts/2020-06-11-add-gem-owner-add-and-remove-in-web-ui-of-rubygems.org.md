@@ -25,6 +25,37 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## Status Updates
 
+### Week 7 (07/17/2020)
+
+1. What did you accomplish this past week?
+    - Added Rack Attack configuration with tests for rate limiting to prevent abuse of email service.
+    - Resolve review comments on [Ownership confirmation PR](https://github.com/rubygems/rubygems.org/pull/2357)
+    - Rename a few terms in [Ownership RFC](https://github.com/rubygems/rfcs/pull/25) based on community suggestions 
+
+1. What will you do this upcoming week?
+    - Start working on the ownership transfer part of the project.
+    - Will work on writing model, controller and views for ownership calls.
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
+### Week 6 (07/10/2020)
+
+1. What did you accomplish this past week?
+    - UI improvements and code quality improvements [rubygems/rubygems.org#2357](https://github.com/rubygems/rubygems.org/pull/2357)
+
+1. What will you do this upcoming week?
+    - Add rate limiting with Rack Attack on newly added endpoints
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
 ### Week 5 (07/03/2020)
 
 1. What did you accomplish this past week?
