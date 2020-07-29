@@ -76,3 +76,61 @@ This is really experimental idea. The goal is subject to change as we work for t
 
 4. Would you like help from some mentor for this task?
     - None for now, but it would be interesting to know other approaches of optimizing the type checker.
+
+### Week 6 (07/11/2020)
+
+1. What did you accomplish this past week?
+    - [My PR](https://github.com/ruby/rbs/pull/323) for adding the sampling option for arrays was approved and merged to the main repo
+
+2. What will you do this upcoming week?
+    - My next goal is to support mocks and stubs. My other goal is to continue optimizing the  runtime type checker since it's still really slow.
+
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now
+
+
+### Week 7 (07/18/2020)
+
+1. What did you accomplish this past week?
+    - I added the `SAMPLE_SIZE` option to RBS, and my PR for that change is under review. I also worked on supporting mocks and stubs, and I found out that a particular [gem](https://github.com/benfalk/fetcher) that used RSpec Doubles had some issues with the RBS runtime type checker.
+
+2. What will you do this upcoming week?
+    - I have to get my PR approved and merged, and I also have to work on fixing the issues with RSpec Doubles.
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now
+
+
+
+### Week 8 (07/22/2020)
+
+1. What did you accomplish this past week?
+    - My [second PR](https://github.com/ruby/rbs/pull/343) to improve the QoL of the `setup` Ruby file Was approved and merged. My PR to add the sample size option is still being reviewed
+
+2. What will you do this upcoming week?
+    - Like last week, I have to get my PR approved and merged, and I also have to work on fixing the issues with RSpec Doubles.
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now
+
+### Week 9 (07/28/2020)
+
+1. What did you accomplish this past week?
+    - My [third PR](https://github.com/ruby/rbs/pull/336/commits/bcfc19991a93e41ce387145b687feaaeedd14ffd) was finally approved and merged. I also temporarily fixed the issue for RSpec Doubles. I also profiled the `writer_test`, which took a long time to finish.
+
+2. What will you do this upcoming week?
+    - I have to continue optimizing the runtime type checker based on the results from the profiler. I am also working on adding signature files to other projects to test the performance of RBS. I am also checking if there are any problems with running RBS alongside other Double suites.
+
+
+3. What obstacles are impeding your progress?
+    - None
+
+4. Would you like help from some mentor for this task?
+    - None for now
