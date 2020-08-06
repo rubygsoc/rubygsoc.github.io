@@ -25,6 +25,36 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## Status Updates
 
+### Week 9 (07/31/2020)
+
+1. What did you accomplish this past week?
+    - Finished implementation of ownership requests feature
+
+1. What will you do this upcoming week?
+    - Start writing tests for ownership calls and requests
+    - I18nize strings, add mailers and other improvements
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
+### Week 8 (07/24/2020)
+
+1. What did you accomplish this past week?
+    - Started with implementing ownership call controller and model
+
+1. What will you do this upcoming week?
+    - Finish ownership calls UI
+    - Start working on ownership requests features
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
 ### Week 7 (07/17/2020)
 
 1. What did you accomplish this past week?
