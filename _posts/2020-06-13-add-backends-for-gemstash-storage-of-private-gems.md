@@ -78,3 +78,32 @@ This project would include extending Gemstash to support storing gems in other p
 
 1. Would you like help from some mentor for this task?
     - Nope.
+
+
+### Week 7 (07/20/2020)
+
+1. What did you accomplish this past week?
+    - GCP is completed. Mostly functional, but I'll leave it untested for now, since the S3 code hasn't been merged yet, it'll be inefficient to work on this.
+
+1. What will you do this upcoming week?
+    - Explore a new functionality idea that display configurations.
+
+1. What obstacles are impeding your progress?
+    - None so far.
+
+1. Would you like help from some mentor for this task?
+    - Nope.
+
+### Week 8 (07/27/2020)
+
+1. What did you accomplish this past week?
+    - Wrote and created a PR for a simple functionality called gemstash info that displays the current config. Resolved issues regarding my S3 push request.
+
+1. What will you do this upcoming week?
+    - Work on writing tests for the gemstash config command.
+
+1. What obstacles are impeding your progress?
+    - None so far.
+
+1. Would you like help from some mentor for this task?
+    - Nope.
