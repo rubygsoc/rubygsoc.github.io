@@ -25,6 +25,36 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## Status Updates
 
+### Week 11 (08/14/2020)
+
+1. What did you accomplish this past week?
+    - Resolve review comments on [ownership confirmation PR](https://github.com/rubygems/rubygems.org/pull/2357)
+    - Changed notification from all owners to only removed user on owner removal.
+
+1. What will you do this upcoming week?
+    - Get reviews on the PR and resolve the review comments if any.
+    - Work on drafting final GSoC report.
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+    
+### Week 10 (08/07/2020)
+
+1. What did you accomplish this past week?
+    - Finished all tests for [ownership transfer PR](https://github.com/vachhanihpavan/rubygems.org/pull/22)
+
+1. What will you do this upcoming week?
+    - Get review on the PR and resolve the review comments if any.
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+    
 ### Week 9 (07/31/2020)
 
 1. What did you accomplish this past week?
