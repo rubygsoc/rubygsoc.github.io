@@ -35,6 +35,70 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 ## Status Updates
 
+### Week 10 (08/11/2020)
+
+1. What did you accomplish this past week?
+   - Continued to implement `rbs subtract` in topic branch
+
+1. What will you do this upcoming week?
+   - Investigate and add codes for subtract
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
+### Week 9 (08/04/2020)
+
+1. What did you accomplish this past week?
+    - Changed some behavior of [soutaro/steep#173](https://github.com/soutaro/steep/pull/173)
+    - Investigated and began to [implement `rbs subtract`](https://github.com/ruby/rbs/compare/master...tadd:add-subcommand-subtract)
+
+1. What will you do this upcoming week?
+    - Continue to implement `rbs subtract` in above topic branch
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
+### Week 8 (07/28/2020)
+
+1. What did you accomplish this past week?
+    - Investigated some problems of `steep check`
+    - Investigated a problem and [created PR](https://github.com/soutaro/steep/pull/173) about `steep watch`
+
+1. What will you do this upcoming week?
+    - Improve above PR
+    - Check RBS codes to implement `rbs subtract`
+        - This would be helpful to merge machine-generated RBS with hand-written RBS
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
+### Week 7 (07/21/2020)
+
+1. What did you accomplish this past week?
+    - Updated to follow new syntax of RBS in [Mastodon](https://github.com/tadd/mastodon/commit/33b212af13209124ea7fccf538258cebe414858f?w=1#diff-0a902584bfa6f640041ae92a3a17a50e)
+    - Tried to improve speed on interrupting `steep watch`
+    - Tried to fix Steep's problem about `::String | false`
+    - Setup LSP package on local Emacs and check behavior of Steep
+
+1. What will you do this upcoming week?
+    - Create an issue of `::String | false`
+    - Create a PR about `steep watch`
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentors for this task?
+    - No
+
 ### Week 6 (07/10/2020)
 
 1. What did you accomplish this past week?
