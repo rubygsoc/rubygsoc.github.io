@@ -29,6 +29,10 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 * **Student**: Tadashi Saito
 * **Mentors**: @mame, @soutaro
 
+## RubyGSOC 2020 Final Report
+
+(Add your final report here)
+
 ## Status Updates
 
 ### Week 6 (07/10/2020)
