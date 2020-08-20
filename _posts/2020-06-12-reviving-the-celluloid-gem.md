@@ -21,6 +21,10 @@ The goal is to get `Celluloid` to a place where it can skip `0.18.0` and be with
 * **Student**: Emese
 * **Mentor:** @digitalextremist
 
+## RubyGSOC 2020 Final Report
+
+(Add your final report here)
+
 ## Status Updates
 
 ### Week 3 (06/19/2020)
