@@ -19,6 +19,10 @@ This project would include extending Gemstash to support storing gems in other p
 * **Student**: Hac Duy Quang Nguyen
 * **Mentors**: @bronzdoc
 
+## RubyGSOC 2020 Final Report
+
+(Add your final report here)
+
 ## Status Updates
 
 ### Week 3 (06/19/2020)
