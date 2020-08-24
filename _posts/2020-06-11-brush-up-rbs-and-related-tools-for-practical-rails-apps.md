@@ -174,3 +174,41 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 1. Would you like help from some mentor for this task?
     - No for now
+
+### Week 2 (06/12/2020)
+
+1. What did you accomplish this past week?
+    - Run `rbs prototype runtime` for Rails app
+    - Created a [PR to fix `rbs prototype runtime --require-relative`](https://github.com/ruby/rbs/pull/299)
+    - Another PR to [fix old name of RBS](https://github.com/ruby/rbs/pull/300)
+    - Reported [an issue about anonymous modules](https://github.com/ruby/rbs/pull/301)
+
+1. What will you do this upcoming week?
+   - Mostly complete to add signatures of RubyCI
+   - Fix `ruby/rbs#301`
+   - Fix RBS Rails with adding signatures of `ActiveRecord::Base` methods
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+
+### Week 1 (06/07/2020)
+
+1. What did you accomplish this past week?
+    - Revised project's description in https://summerofcode.withgoogle.com/
+    - Created small fix PRs for [RBS](https://github.com/ruby/rbs/pull/294) and [RBS Rails](https://github.com/pocke/rbs_rails/pull/12)
+    - Tried to work with `steep langserver`
+    - Add some signatures of [RubyCI](https://github.com/ruby/rubyci)
+
+1. What will you do this upcoming week?
+    - Continue to add signatures of RubyCI
+    - Try `rbs prototype runtime` for Rails apps
+        - `eager_load!` would be needed
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
