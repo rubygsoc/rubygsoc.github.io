@@ -25,10 +25,22 @@ We are also hoping to add a new flow for ownership transfers, where users can ma
 
 ## RubyGSOC 2020 Final Report
 
-(Add your final report here)
+[https://vachhanihpavan.github.io/2020-08-21-gsoc-2020-final-report/](https://vachhanihpavan.github.io/2020-08-21-gsoc-2020-final-report/)
 
 ## Status Updates
 
+### Week 12 (08/21/2020)
+
+1. What did you accomplish this past week?
+    - Rework on rack-attack rate limiting configuration.
+    - Finished final report
+
+1. What obstacles are impeding your progress?
+    - None
+
+1. Would you like help from some mentor for this task?
+    - No
+    
 ### Week 11 (08/14/2020)
 
 1. What did you accomplish this past week?
