@@ -73,7 +73,9 @@ end
 By June 18, I successfully surpassed my Phase 1 Milestones.
 
 - [ ]  **Phase 1 Evaluation milestones:**
-    - [x]  S3 Client with a working connection and core functionalities:❏ Upload a gem❏ Download a gem
+    - [x]  S3 Client with a working connection and core functionalities:
+    - [x]  Upload a gem
+    - [x]  Download a gem
     - [x]  Delete a gem
     - [x]  S3 service that can manually upload and download a gem from an S3 bucket
 
