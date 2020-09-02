@@ -31,7 +31,7 @@ You can propose any idea to improve the RBS toolchain. (You will find a missing 
 
 ## RubyGSOC 2020 Final Report
 
-(Add your final report here)
+https://writtensomeday.blogspot.com/2020/08/google-summer-of-code-2020-final-report.html
 
 ## Status Updates
 
